@@ -91,7 +91,6 @@ var friendsArray = [
         2
     ]
 },
-
-
-
 ]
+
+module.exports = friendsArray;
